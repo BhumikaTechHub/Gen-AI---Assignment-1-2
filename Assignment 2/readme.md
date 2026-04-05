@@ -1,7 +1,4 @@
-Here’s a **clean, professional `README.md`** for your project 👇
-(You can copy-paste this directly into GitHub)
 
----
 
 #  GenAI Assignment: Fine-Tuning LLM for Customer Support
 
