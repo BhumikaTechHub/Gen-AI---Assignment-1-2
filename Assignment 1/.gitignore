@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Test and tooling caches
+.pytest_cache/
+.mypy_cache/
+
+# Generated vector indexes
+vector_store/
+faiss_index/
+chroma_db/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
